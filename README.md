@@ -13,7 +13,7 @@ Short description...
 
 **Tech:** React • Firebase • Gemini API
 
-➡️ Repository: github link
+➡️ Repository: [github link](https://github.com/2mellow/Wanderwise)
 
 ---
 
@@ -22,7 +22,7 @@ Short description...
 
 **Tech:** React • Firebase
 
-➡️ Repository: github link
+➡️ Repository: [github link](https://github.com/2mellow/Nibblesandgiggles)
 
 ---
 
@@ -31,7 +31,7 @@ Short description...
 
 **Tech:** React • Firebase • AI
 
-➡️ Repository: github link
+➡️ Repository: [github link](https://github.com/2mellow/Future-Visions)
 
 ---
 
