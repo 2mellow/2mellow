@@ -1,15 +1,66 @@
-## Hi there 👋
-
 # Hi, I'm Markell Thornton 👋
 
-Master of Science in Information Management (MSIM) student at the University of Washington focusing on AI and Business Intelligence.
+Master of Science in Information Management (MSIM) student at the University of Washington.
 
-I'm interested in:
+Interested in AI, Business Intelligence, Data Analytics, and Full-Stack Development.
 
-- AI Applications
-- Business Intelligence
-- Data Analytics
-- Full-Stack Development
-- React & Firebase
+---
 
-I'm currently building portfolio projects that combine AI, analytics, and modern web development.
+## Featured Projects
+
+### 🌍 Wanderwise
+Short description...
+
+**Tech:** React • Firebase • Gemini API
+
+➡️ Repository: github link
+
+---
+
+### 🛒 Nibbles & Giggles
+Short description...
+
+**Tech:** React • Firebase
+
+➡️ Repository: github link
+
+---
+
+### 💪 Future Visions
+Short description...
+
+**Tech:** React • Firebase • AI
+
+➡️ Repository: github link
+
+---
+
+## Technical Skills
+
+- Python
+- SQL
+- JavaScript
+- TypeScript
+- React
+- Firebase
+- Git
+- Tableau
+- ArcGIS
+
+---
+
+## Education
+
+**University of Washington**
+
+B.A. Geography (Data Science)
+
+Incoming M.S. Information Management (AI & Business Intelligence)
+
+---
+
+## Contact
+
+LinkedIn
+
+Email
