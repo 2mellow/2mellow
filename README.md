@@ -61,6 +61,6 @@ Incoming M.S. Information Management (AI & Business Intelligence)
 
 ## Contact
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/markell-thornton-3b7695140/
 
-Email
+Email: markellmt02@gmail.com
