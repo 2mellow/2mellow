@@ -13,7 +13,7 @@ AI-powered travel planning application that helps users discover destinations an
 
 **Tech:** React • Firebase • Gemini API
 
-🔗 Live Demo:
+🔗 Live Demo: https://wanderwise-ai.web.app/
 
 ➡️ Repository: [github link](https://github.com/2mellow/Wanderwise)
 
@@ -24,7 +24,7 @@ Full-stack e-commerce application featuring product browsing, shopping cart func
 
 **Tech:** React • Firebase
 
-🔗 Live Demo:
+🔗 Live Demo: https://nibblesandgigles.web.app/
 
 ➡️ Repository: [github link](https://github.com/2mellow/Nibblesandgiggles)
 
@@ -35,7 +35,7 @@ Fitness tracking application with AI-inspired features designed to help users mo
 
 **Tech:** React • Firebase • AI
 
-🔗 Live Demo:
+🔗 Live Demo: https://gymaionline.web.app/
 
 ➡️ Repository: [github link](https://github.com/2mellow/Future-Visions)
 
