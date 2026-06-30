@@ -45,6 +45,7 @@ Fitness tracking application with AI-inspired features designed to help users mo
 
 - Python
 - SQL
+- R
 - JavaScript
 - TypeScript
 - React
