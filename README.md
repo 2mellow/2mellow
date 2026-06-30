@@ -13,6 +13,8 @@ AI-powered travel planning application that helps users discover destinations an
 
 **Tech:** React • Firebase • Gemini API
 
+Live Demo:
+
 ➡️ Repository: [github link](https://github.com/2mellow/Wanderwise)
 
 ---
