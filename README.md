@@ -20,7 +20,7 @@ Live Demo:
 ---
 
 ### 🛒 Nibbles & Giggles
-Short description...
+Full-stack e-commerce application featuring product browsing, shopping cart functionality, and Firebase-backed authentication.Live Demo:
 
 **Tech:** React • Firebase
 
