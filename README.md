@@ -13,16 +13,18 @@ AI-powered travel planning application that helps users discover destinations an
 
 **Tech:** React • Firebase • Gemini API
 
-Live Demo:
+🔗 Live Demo:
 
 ➡️ Repository: [github link](https://github.com/2mellow/Wanderwise)
 
 ---
 
 ### 🛒 Nibbles & Giggles
-Full-stack e-commerce application featuring product browsing, shopping cart functionality, and Firebase-backed authentication.Live Demo:
+Full-stack e-commerce application featuring product browsing, shopping cart functionality, and Firebase-backed authentication.
 
 **Tech:** React • Firebase
+
+🔗 Live Demo:
 
 ➡️ Repository: [github link](https://github.com/2mellow/Nibblesandgiggles)
 
@@ -32,6 +34,8 @@ Full-stack e-commerce application featuring product browsing, shopping cart func
 Short description...
 
 **Tech:** React • Firebase • AI
+
+🔗 Live Demo:
 
 ➡️ Repository: [github link](https://github.com/2mellow/Future-Visions)
 
