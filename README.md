@@ -62,7 +62,7 @@ Fitness tracking application with AI-inspired features designed to help users mo
 
 B.A. Geography (Data Science)
 
-Incoming M.S. Information Management (AI & Business Intelligence)
+M.S. Information Management (AI & Business Intelligence)
 
 ---
 
