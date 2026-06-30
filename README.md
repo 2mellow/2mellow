@@ -9,7 +9,7 @@ Interested in AI, Business Intelligence, Data Analytics, and Full-Stack Developm
 ## Featured Projects
 
 ### 🌍 Wanderwise
-Short description...
+AI-powered travel planning application that helps users discover destinations and generate personalized itineraries using Google's Gemini API.
 
 **Tech:** React • Firebase • Gemini API
 
