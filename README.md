@@ -31,7 +31,7 @@ Full-stack e-commerce application featuring product browsing, shopping cart func
 ---
 
 ### 💪 Future Visions
-Short description...
+Fitness tracking application with AI-inspired features designed to help users monitor workouts and visualize progress.
 
 **Tech:** React • Firebase • AI
 
